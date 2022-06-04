@@ -34,6 +34,9 @@
 .active{
     display: block;
 }
+.toggle{
+    cursor: pointer;
+}
 @media (max-width: 580px) {
 
    .navbar ul{
